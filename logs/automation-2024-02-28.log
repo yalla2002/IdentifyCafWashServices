@@ -1,0 +1,69 @@
+14:21:43.039 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+14:22:28.131 [main] INFO  testCases.TestCases - Starting Running Test Cases
+14:22:29.309 [main] INFO  testCases.TestCases - Closing popup
+14:22:31.928 [main] INFO  testCases.TestCases - Giving location input
+14:22:36.150 [main] INFO  testCases.TestCases - Giving service input
+14:22:44.158 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+14:22:47.192 [main] INFO  testCases.TestCases - Freelisting page is opened
+14:22:47.766 [main] INFO  testCases.TestCases - Enter the wrong Number
+14:22:48.546 [main] INFO  testCases.TestCases - Capturing error message
+14:22:53.379 [main] INFO  testCases.TestCases - Opening home page
+14:22:54.233 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+14:22:57.492 [main] INFO  testCases.TestCases - Getting the submenu of gym
+14:22:59.032 [main] INFO  testCases.TestCases - Closing the browser
+14:23:25.188 [main] INFO  testCases.TestCases - Edge browser opened successfully
+14:23:59.735 [main] INFO  testCases.TestCases - Starting Running Test Cases
+14:24:00.812 [main] INFO  testCases.TestCases - Closing popup
+14:24:21.027 [main] INFO  testCases.TestCases - Giving location input
+14:24:42.947 [main] INFO  testCases.TestCases - Giving service input
+14:24:49.751 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+14:25:45.074 [main] INFO  testCases.TestCases - Freelisting page is opened
+14:25:45.409 [main] INFO  testCases.TestCases - Enter the wrong Number
+14:25:46.118 [main] INFO  testCases.TestCases - Capturing error message
+14:25:51.127 [main] INFO  testCases.TestCases - Opening home page
+14:25:52.040 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+14:25:56.139 [main] INFO  testCases.TestCases - Getting the submenu of gym
+14:25:58.006 [main] INFO  testCases.TestCases - Closing the browser
+14:29:12.100 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+14:29:26.270 [main] INFO  testCases.TestCases - Starting Running Test Cases
+14:29:29.145 [main] INFO  testCases.TestCases - Closing popup
+14:29:32.221 [main] INFO  testCases.TestCases - Giving location input
+14:29:39.002 [main] INFO  testCases.TestCases - Giving service input
+14:29:47.883 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+14:30:03.287 [main] INFO  testCases.TestCases - Freelisting page is opened
+14:30:03.632 [main] INFO  testCases.TestCases - Enter the wrong Number
+14:30:04.834 [main] INFO  testCases.TestCases - Capturing error message
+14:30:08.315 [main] INFO  testCases.TestCases - Opening home page
+14:30:09.771 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+14:30:13.088 [main] INFO  testCases.TestCases - Getting the submenu of gym
+14:30:14.820 [main] INFO  testCases.TestCases - Closing the browser
+15:25:19.755 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+15:25:32.155 [main] INFO  testCases.TestCases - Starting Running Test Cases
+15:25:33.247 [main] INFO  testCases.TestCases - Closing popup
+15:25:36.541 [main] INFO  testCases.TestCases - Giving location input
+15:25:40.937 [main] INFO  testCases.TestCases - Giving service input
+15:25:50.020 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+15:25:54.706 [main] INFO  testCases.TestCases - Freelisting page is opened
+15:25:55.042 [main] INFO  testCases.TestCases - Enter the wrong Number
+15:25:55.721 [main] INFO  testCases.TestCases - Capturing error message
+15:25:57.222 [main] INFO  testCases.TestCases - Opening home page
+15:25:58.417 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+15:26:01.656 [main] INFO  testCases.TestCases - Getting the submenu of gym
+15:26:03.424 [main] INFO  testCases.TestCases - Closing the browser
+15:30:43.392 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+15:30:50.045 [main] INFO  testCases.TestCases - Starting Running Test Cases
+15:30:54.170 [main] INFO  testCases.TestCases - Closing popup
+15:30:56.489 [main] INFO  testCases.TestCases - Giving location input
+15:31:09.852 [main] INFO  testCases.TestCases - Closing the browser
+15:36:35.564 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+15:36:44.584 [main] INFO  testCases.TestCases - Starting Running Test Cases
+15:36:49.974 [main] INFO  testCases.TestCases - Closing popup
+15:37:00.011 [main] INFO  testCases.TestCases - Giving location input
+15:37:44.066 [main] INFO  testCases.TestCases - Closing the browser
+15:38:08.865 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+15:38:16.649 [main] INFO  testCases.TestCases - Starting Running Test Cases
+15:38:21.715 [main] INFO  testCases.TestCases - Closing popup
+15:38:26.813 [main] INFO  testCases.TestCases - Giving location input
+15:38:55.761 [main] INFO  testCases.TestCases - Closing the browser
+15:44:23.768 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+15:45:10.339 [main] INFO  testCases.TestCases - Starting Running Test Cases
