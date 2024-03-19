@@ -1,0 +1,69 @@
+16:49:29.691 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+16:50:19.868 [main] INFO  testCases.TestCases - Freelisting page is opened
+16:50:20.637 [main] INFO  testCases.TestCases - Enter the wrong Number
+16:50:21.333 [main] INFO  testCases.TestCases - Capturing error message
+16:51:00.325 [main] INFO  testCases.TestCases - Opening home page
+16:51:01.259 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+16:51:04.664 [main] INFO  testCases.TestCases - Getting the submenu of gym
+16:51:06.381 [main] INFO  testCases.TestCases - Closing the browser
+15:44:26.063 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+15:45:14.104 [main] INFO  testCases.TestCases - Starting Running Test Cases
+15:45:15.132 [main] INFO  testCases.TestCases - Closing popup
+15:45:17.896 [main] INFO  testCases.TestCases - Giving location input
+15:45:20.222 [main] INFO  testCases.TestCases - Giving service input
+15:45:28.492 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+15:45:50.369 [main] INFO  testCases.TestCases - Freelisting page is opened
+15:45:50.676 [main] INFO  testCases.TestCases - Enter the wrong Number
+15:45:51.234 [main] INFO  testCases.TestCases - Capturing error message
+15:46:25.089 [main] INFO  testCases.TestCases - Opening home page
+15:46:26.025 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+15:46:29.339 [main] INFO  testCases.TestCases - Getting the submenu of gym
+15:46:30.909 [main] INFO  testCases.TestCases - Closing the browser
+16:10:38.523 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+16:11:05.702 [main] INFO  testCases.TestCases - Starting Running Test Cases
+16:11:06.775 [main] INFO  testCases.TestCases - Closing popup
+16:11:09.657 [main] INFO  testCases.TestCases - Giving location input
+16:11:12.285 [main] INFO  testCases.TestCases - Giving service input
+16:11:21.431 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+16:11:54.765 [main] INFO  testCases.TestCases - Freelisting page is opened
+16:11:55.143 [main] INFO  testCases.TestCases - Enter the wrong Number
+16:11:55.629 [main] INFO  testCases.TestCases - Capturing error message
+16:12:27.558 [main] INFO  testCases.TestCases - Opening home page
+16:12:28.834 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+16:12:31.795 [main] INFO  testCases.TestCases - Getting the submenu of gym
+16:12:33.381 [main] INFO  testCases.TestCases - Closing the browser
+16:13:03.777 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+16:13:41.008 [main] INFO  testCases.TestCases - Starting Running Test Cases
+16:13:42.113 [main] INFO  testCases.TestCases - Closing popup
+16:13:45.126 [main] INFO  testCases.TestCases - Giving location input
+16:13:47.557 [main] INFO  testCases.TestCases - Giving service input
+16:13:54.999 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+16:14:27.042 [main] INFO  testCases.TestCases - Freelisting page is opened
+16:14:27.374 [main] INFO  testCases.TestCases - Enter the wrong Number
+16:14:27.961 [main] INFO  testCases.TestCases - Capturing error message
+16:15:00.207 [main] INFO  testCases.TestCases - Opening home page
+16:15:01.143 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+16:15:04.487 [main] INFO  testCases.TestCases - Getting the submenu of gym
+16:15:06.023 [main] INFO  testCases.TestCases - Closing the browser
+16:25:47.429 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+16:26:24.300 [main] INFO  testCases.TestCases - Starting Running Test Cases
+16:26:25.198 [main] INFO  testCases.TestCases - Closing popup
+16:26:27.607 [main] INFO  testCases.TestCases - Giving location input
+16:26:30.129 [main] INFO  testCases.TestCases - Giving service input
+16:26:37.044 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+16:27:09.312 [main] INFO  testCases.TestCases - Freelisting page is opened
+16:27:09.679 [main] INFO  testCases.TestCases - Enter the wrong Number
+16:27:10.243 [main] INFO  testCases.TestCases - Capturing error message
+16:27:41.977 [main] INFO  testCases.TestCases - Opening home page
+16:27:42.850 [main] INFO  testCases.TestCases - Clicking Gym Menu Icon
+16:27:46.026 [main] INFO  testCases.TestCases - Getting the submenu of gym
+16:27:47.576 [main] INFO  testCases.TestCases - Closing the browser
+16:56:20.277 [main] INFO  testCases.TestCases - Chrome browser opened successfully
+16:57:03.664 [main] INFO  testCases.TestCases - Starting Running Test Cases
+16:57:05.531 [main] INFO  testCases.TestCases - Closing popup
+16:57:10.030 [main] INFO  testCases.TestCases - Giving location input
+16:57:13.791 [main] INFO  testCases.TestCases - Giving service input
+16:57:24.602 [main] INFO  testCases.TestCases - Getting top 5 car wash services
+16:57:57.385 [main] INFO  testCases.TestCases - Freelisting page is opened
+16:57:58.025 [main] INFO  testCases.TestCases - Enter the wrong Number
+16:57:58.729 [main] INFO  testCases.TestCases - Capturing error message

@@ -25,10 +25,10 @@ public class CarWashServicePage extends BasePage{
 	public CarWashServicePage(WebDriver driver) {
 		super(driver);
 	}
-	
+	//
 	
 	//Locators
-	@FindBy(xpath="//div[@class='jsx-3349e7cd87e12d75 resultbox_title_anchor  line_clamp_1']")
+	@FindBy(xpath="//div[@class='jsx-3349e7cd87e12d75 resultbox_title_anchor  line_clamp_1 ']")
 	List<WebElement> serviceNames;
 	
 	@FindBy(xpath="*//div[@class='jsx-3349e7cd87e12d75 button_flare']")

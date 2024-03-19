@@ -11,8 +11,6 @@
       <class name="testCases.TestCases">
         <methods>
           <include name="openUrl"/>
-          <include name="searchCarWashService"/>
-          <include name="freeListingValidation"/>
           <include name="closeBowser"/>
           <include name="getGymSubMenuList"/>
           <include name="getCarWashingServiceandPhone"/>

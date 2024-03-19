@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-04T17:17:10 IST" name="Suite" finished-at="2024-03-04T17:18:10 IST" duration-ms="59592">
+  <suite started-at="2024-03-19T16:15:03 IST" name="Suite" finished-at="2024-03-19T16:16:11 IST" duration-ms="68221">
     <groups>
     </groups>
-    <test started-at="2024-03-04T17:17:10 IST" name="Chrome Test" finished-at="2024-03-04T17:18:10 IST" duration-ms="59592">
+    <test started-at="2024-03-19T16:15:03 IST" name="Chrome Test" finished-at="2024-03-19T16:16:11 IST" duration-ms="68221">
       <class name="testCases.TestCases">
-        <test-method is-config="true" signature="openUrl(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:17:11 IST" name="openUrl" finished-at="2024-03-04T17:17:35 IST" duration-ms="24390" status="PASS">
+        <test-method is-config="true" signature="openUrl(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:15:03 IST" name="openUrl" finished-at="2024-03-19T16:15:24 IST" duration-ms="20106" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,31 +23,31 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method signature="closeWelcomePopUp()[pri:0, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:17:35 IST" name="closeWelcomePopUp" finished-at="2024-03-04T17:17:41 IST" duration-ms="5505" status="PASS">
+        <test-method signature="closeWelcomePopUp()[pri:0, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:15:24 IST" name="closeWelcomePopUp" finished-at="2024-03-19T16:15:30 IST" duration-ms="6122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeWelcomePopUp -->
-        <test-method signature="locationInput()[pri:1, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:17:41 IST" name="locationInput" finished-at="2024-03-04T17:17:44 IST" duration-ms="3239" status="PASS">
+        <test-method signature="locationInput()[pri:1, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:15:30 IST" name="locationInput" finished-at="2024-03-19T16:15:32 IST" duration-ms="2477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- locationInput -->
-        <test-method signature="searchCarWashService()[pri:2, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:17:44 IST" name="searchCarWashService" finished-at="2024-03-04T17:17:47 IST" duration-ms="3033" status="PASS">
+        <test-method signature="searchCarWashService()[pri:2, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:15:32 IST" name="searchCarWashService" finished-at="2024-03-19T16:15:35 IST" duration-ms="2760" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchCarWashService -->
-        <test-method signature="getCarWashingServiceandPhone()[pri:3, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:17:47 IST" name="getCarWashingServiceandPhone" finished-at="2024-03-04T17:17:58 IST" duration-ms="10951" status="PASS">
+        <test-method signature="getCarWashingServiceandPhone()[pri:3, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:15:35 IST" name="getCarWashingServiceandPhone" finished-at="2024-03-19T16:15:44 IST" duration-ms="9149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getCarWashingServiceandPhone -->
-        <test-method signature="freeListingValidation()[pri:4, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:17:58 IST" name="freeListingValidation" finished-at="2024-03-04T17:18:01 IST" duration-ms="3321" status="PASS">
+        <test-method signature="freeListingValidation()[pri:4, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:15:44 IST" name="freeListingValidation" finished-at="2024-03-19T16:16:03 IST" duration-ms="18767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freeListingValidation -->
-        <test-method signature="getGymSubMenuList()[pri:5, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:18:01 IST" name="getGymSubMenuList" finished-at="2024-03-04T17:18:08 IST" duration-ms="7206" status="PASS">
+        <test-method signature="getGymSubMenuList()[pri:5, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:16:03 IST" name="getGymSubMenuList" finished-at="2024-03-19T16:16:10 IST" duration-ms="6914" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getGymSubMenuList -->
-        <test-method is-config="true" signature="closeBowser()[pri:0, instance:testCases.TestCases@1817d444]" started-at="2024-03-04T17:18:08 IST" name="closeBowser" finished-at="2024-03-04T17:18:10 IST" duration-ms="1192" status="PASS">
+        <test-method is-config="true" signature="closeBowser()[pri:0, instance:testCases.TestCases@1817d444]" started-at="2024-03-19T16:16:10 IST" name="closeBowser" finished-at="2024-03-19T16:16:11 IST" duration-ms="1231" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBowser -->
